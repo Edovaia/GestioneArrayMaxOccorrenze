@@ -1,0 +1,15 @@
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\bin\Debug\net8.0\Esercizi29Bis.exe
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\bin\Debug\net8.0\Esercizi29Bis.deps.json
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\bin\Debug\net8.0\Esercizi29Bis.runtimeconfig.json
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\bin\Debug\net8.0\Esercizi29Bis.dll
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\bin\Debug\net8.0\Esercizi29Bis.pdb
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\obj\Debug\net8.0\Esercizi29Bis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\obj\Debug\net8.0\Esercizi29Bis.AssemblyInfoInputs.cache
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\obj\Debug\net8.0\Esercizi29Bis.AssemblyInfo.cs
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\obj\Debug\net8.0\Esercizi29Bis.csproj.CoreCompileInputs.cache
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\obj\Debug\net8.0\Esercizi29Bis.sourcelink.json
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\obj\Debug\net8.0\Esercizi29Bis.dll
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\obj\Debug\net8.0\refint\Esercizi29Bis.dll
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\obj\Debug\net8.0\Esercizi29Bis.pdb
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\obj\Debug\net8.0\Esercizi29Bis.genruntimeconfig.cache
+C:\Users\edoar\source\repos\Esercizi29Bis\Esercizi29Bis\obj\Debug\net8.0\ref\Esercizi29Bis.dll
